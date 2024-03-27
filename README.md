@@ -79,8 +79,7 @@ A-T扩散框架的技术原理基于对Stable Diffusion模型的精细调整，�
 
 ### 附图说明
 
-![图片_b1c5b3f6](https://github.com/AIDLlab/A-T/assets/152048226/f97b0ebe-3e9c-46bd-b15c-6b29303b0e97)
-![图片_71546055](https://github.com/AIDLlab/A-T/assets/152048226/a60b37d3-1f06-4d78-9a19-d71ddcfa67aa)
+![图片_b1c5b3f6](https://github.com/AIDLlab/A-T/assets/152048226/f97b0ebe-3e9c-46bd-b15c-6b29303b0e97)![图片_71546055](https://github.com/AIDLlab/A-T/assets/152048226/a60b37d3-1f06-4d78-9a19-d71ddcfa67aa)
 ![图片_d1d50481](https://github.com/AIDLlab/A-T/assets/152048226/5cc10d01-c53a-4d65-973d-23e4e3f46e14)
 ![图片_1aab4c30](https://github.com/AIDLlab/A-T/assets/152048226/e738f4be-c005-4389-970e-d73ec9b06c2d)
 ![图片_fe9cffed](https://github.com/AIDLlab/A-T/assets/152048226/4aa71351-5f07-4633-800c-ef3325991ddf)
