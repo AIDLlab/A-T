@@ -77,24 +77,4 @@ A-T扩散框架的技术原理基于对Stable Diffusion模型的精细调整，�
 
 本发明通过构建简易的演示版本和与专业设计团队的合作，验证了A-T扩散框架的实用价值。在商业化应用场景中，A-T框架展现了优秀的性能，能够满足设计师和品牌商的需求。
 
-### 附图说明
-
-![图片_b1c5b3f6](https://github.com/AIDLlab/A-T/assets/152048226/f97b0ebe-3e9c-46bd-b15c-6b29303b0e97)![图片_71546055](https://github.com/AIDLlab/A-T/assets/152048226/a60b37d3-1f06-4d78-9a19-d71ddcfa67aa)![图片_d1d50481](https://github.com/AIDLlab/A-T/assets/152048226/5cc10d01-c53a-4d65-973d-23e4e3f46e14)![图片_1aab4c30](https://github.com/AIDLlab/A-T/assets/152048226/e738f4be-c005-4389-970e-d73ec9b06c2d)![图片_fe9cffed](https://github.com/AIDLlab/A-T/assets/152048226/4aa71351-5f07-4633-800c-ef3325991ddf)![图片_e3c102d1](https://github.com/AIDLlab/A-T/assets/152048226/ff32143e-71a0-4f40-821d-072a8054c205)![图片_d34e0751](https://github.com/AIDLlab/A-T/assets/152048226/481bfc5e-fd0f-480f-99f9-374aae030d86)
-![图片_f371366a](https://github.com/AIDLlab/A-T/assets/152048226/78a8d18e-60d6-4f0b-82ed-c9cd403f7b82)
-![图片_37d65d40](https://github.com/AIDLlab/A-T/assets/152048226/679ae621-9733-42aa-9c54-488454d68bb6)
-![图片](https://github.com/AIDLlab/A-T/assets/152048226/e4b78f62-c27e-4f26-970e-74f822311367)
-![图片_8ff9eb05](https://github.com/AIDLlab/A-T/assets/152048226/c2e91852-cb10-4a02-bff4-dd2a927497da)
-![图片_acd2a86a](https://github.com/AIDLlab/A-T/assets/152048226/5deec4c1-b0bb-451e-aadd-d42e3c021621)
-![图片_9e9ad2dd](https://github.com/AIDLlab/A-T/assets/152048226/cf333704-df65-4e4a-ac3f-3d4fa1eda9fc)
-![图片_4906bea6](https://github.com/AIDLlab/A-T/assets/152048226/22758613-4372-4f32-aa26-5caec27fc86e)
-![图片_b74d7441](https://github.com/AIDLlab/A-T/assets/152048226/5585d0b3-8c44-4f43-b0f9-23d354e15f13)
-![图片_4484e62e](https://github.com/AIDLlab/A-T/assets/152048226/217af9f2-73c0-4152-b143-14d54260bffb)
-![图片_436982fc](https://github.com/AIDLlab/A-T/assets/152048226/0f799203-bed4-49fc-b4bc-6bfbe37287c2)
-![图片_f8ad8a19](https://github.com/AIDLlab/A-T/assets/152048226/d9d4b873-94b9-43e0-a414-c3decb141ae7)
-![图片_0706970b](https://github.com/AIDLlab/A-T/assets/152048226/8495e345-1aac-4f85-bdda-95dd0a407d6d)
-![图片_447f8b88](https://github.com/AIDLlab/A-T/assets/152048226/3cd1855d-7203-43c1-b8aa-fc04f75dc3d0)
-![图片_c427eb12](https://github.com/AIDLlab/A-T/assets/152048226/7250f04d-2dc6-4215-ac45-d6e9c9a03289)
-![图片_8ab0ff67](https://github.com/AIDLlab/A-T/assets/152048226/58353c49-3d97-4b99-a00f-54484551c97c)
-![图片_c5d9d8da](https://github.com/AIDLlab/A-T/assets/152048226/8d7dfe77-5890-498f-85d1-4772e02c04ce)
-![图片_5ea14014](https://github.com/AIDLlab/A-T/assets/152048226/cb44fcfe-158a-4016-8e46-6ded5efc5263)
 
